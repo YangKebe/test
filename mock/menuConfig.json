@@ -1,0 +1,119 @@
+[
+  {
+    "menuId": "110001.001",
+    "menuName": "页面参考",
+    "pMenuId": "110001",
+    "menuType": "1",
+    "icon": "home",
+    "cUrl": "/BasicLayout/Reference",
+    "orderNo": "1"
+  },
+  {
+    "menuId": "110001.001.001",
+    "menuName": "增删改查",
+    "pMenuId": "110001.001",
+    "menuType": "1",
+    "icon": "user",
+    "cUrl": "/BasicLayout/Reference/Curd",
+    "orderNo": "1"
+  },
+  {
+    "menuId": "110001.009",
+    "menuName": "系统管理",
+    "pMenuId": "110001",
+    "menuType": "1",
+    "icon": "laptop",
+    "cUrl": "/BasicLayout/System",
+    "orderNo": "9"
+  },
+  {
+    "menuId": "110001.009.001",
+    "menuName": "系统配置",
+    "pMenuId": "110001.009",
+    "menuType": "1",
+    "icon": "laptop",
+    "cUrl": "/BasicLayout/System/SysSetting",
+    "orderNo": "1"
+  },
+  {
+    "menuId": "110001.009.001.001",
+    "menuName": "机构管理",
+    "pMenuId": "110001.009.001",
+    "menuType": "0",
+    "icon": "home",
+    "cUrl": "/BasicLayout/System/SysSetting/Org",
+    "orderNo": "1"
+  },
+  {
+    "menuId": "110001.009.001.002",
+    "menuName": "用户管理",
+    "pMenuId": "110001.009.001",
+    "menuType": "0",
+    "icon": "user",
+    "cUrl": "/BasicLayout/System/SysSetting/User",
+    "orderNo": "2"
+  },
+  {
+    "menuId": "110001.009.001.003",
+    "menuName": "角色管理",
+    "pMenuId": "110001.009.001",
+    "menuType": "0",
+    "icon": "team",
+    "cUrl": "/BasicLayout/System/SysSetting/Role",
+    "orderNo": "3"
+  },
+  {
+    "menuId": "110001.009.001.004",
+    "menuName": "权限管理",
+    "pMenuId": "110001.009.001",
+    "menuType": "0",
+    "icon": "bank",
+    "cUrl": "/BasicLayout/System/SysSetting/Auth",
+    "orderNo": "4"
+  },
+  {
+    "menuId": "110001.009.001.005",
+    "menuName": "菜单管理",
+    "pMenuId": "110001.009.001",
+    "menuType": "0",
+    "icon": "tool",
+    "cUrl": "/BasicLayout/System/SysSetting/Menu",
+    "orderNo": "5"
+  },
+  {
+    "menuId": "110001.009.002",
+    "menuName": "其他设置",
+    "pMenuId": "110001.009",
+    "menuType": "1",
+    "icon": "file-text",
+    "cUrl": "/BasicLayout/System/OtherSetting",
+    "orderNo": "2"
+  },
+  {
+    "menuId": "110001.009.002.001",
+    "menuName": "个人信息",
+    "pMenuId": "110001.009.002",
+    "menuType": "0",
+    "icon": "qq",
+    "cUrl": "/BasicLayout/System/OtherSetting/Personal",
+    "orderNo": "1"
+  },
+  {
+    "menuId": "110001.009.002.002",
+    "menuName": "系统信息",
+    "pMenuId": "110001.009.002",
+    "menuType": "0",
+    "icon": "laptop",
+    "cUrl": "/BasicLayout/System/OtherSetting/SystemInfo",
+    "orderNo": "2"
+  },
+  {
+    "menuId": "110001.009.002.003",
+    "menuName": "企业管理",
+    "pMenuId": "110001.009.002",
+    "menuType": "0",
+    "icon": "laptop",
+    "cUrl": "/BasicLayout/System/OtherSetting/CurdDemo",
+    "orderNo": "3"
+  }
+]
